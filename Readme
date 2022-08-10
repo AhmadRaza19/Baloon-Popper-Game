@@ -1,0 +1,26 @@
+//Author: Ahmad Raza
+
+Files for balloon popper game.
+
+
+	bboard.h  specifies ADT BBoard for balloon-board objects
+		  which encapsulates the state of a game;
+		  Specifies operations that can be performed
+		  on such objects.
+
+	bboard.c  main file of game, contains all functions used to run game
+
+	bpop.c    a client program that uses the BBoard ADT
+		  to create a playable game.
+		 
+
+	makefile
+
+	simpleio.c simpleio.h - files used to make functions run more smoothly
+
+	crude_animation_demo:  directory with toy program showing the
+		crude terminal animation techniques used in bpop.c
+
+
+	board1.txt, board2.txt:  initial board configuration files
+		which are readable by bpop
