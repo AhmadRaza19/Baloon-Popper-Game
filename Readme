@@ -24,3 +24,10 @@ Files for balloon popper game.
 
 	board1.txt, board2.txt:  initial board configuration files
 		which are readable by bpop
+		
+
+What I learned: 
+-Pointers
+-Freeing memory
+-How pointers work with other data structures
+-More details on classes
